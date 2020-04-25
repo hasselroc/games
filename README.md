@@ -1,1 +1,2 @@
-# games was wotsch vo mir?
+first try to host a game
+
